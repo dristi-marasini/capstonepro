@@ -1,0 +1,15 @@
+2018-12-03T23:01:35.850Z - info: Environment variables loaded.
+2018-12-03T23:01:35.869Z - debug: Routing Started
+2018-12-03T23:01:35.905Z - debug: Routing end.
+2018-12-03T23:01:35.906Z - info: Loaded routing.
+2018-12-03T23:01:35.941Z - info: START seeder.
+2018-12-03T23:01:35.944Z - debug: 6 products seeded
+2018-12-03T23:01:35.946Z - debug: 5 orders seeded
+2018-12-03T23:01:35.946Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:01:35.947Z - debug: 4 customers seeded
+2018-12-03T23:01:35.947Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:01:35.949Z - debug: 4 orderLineItems seeded
+2018-12-03T23:01:35.949Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:01:38.546Z - debug: GET /
+2018-12-03T23:01:38.565Z - debug: Request to /
+2018-12-03T23:01:39.255Z - debug: GET /css/main.css
